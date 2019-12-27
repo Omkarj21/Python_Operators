@@ -1,0 +1,16 @@
+x = 25
+y = 7
+# Output: x + y = 32
+print('x + y =',x+y)
+# Output: x - y = 18
+print('x - y =',x-y)
+# Output: x * y = 175
+print('x * y =',x*y)
+# Output: x / y = 3.5714285714285716
+print('x / y =',x/y)
+# Output: x // y = 3
+print('x // y =',x//y)
+# Output: x % y = 4
+print('x % y =',x%y)
+# Output: x ** y = 6103515625
+print('x ** y =',x**y)
